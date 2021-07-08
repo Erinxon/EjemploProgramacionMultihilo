@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8v9l5pSVu6s0DnmgdHQTOiVaIGQCwZywXj7DFmqMakzaeZP1NlKNXesvdZoXEJ+Vx+amUyP4uSvUVBJw6c2zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erinxon\\Desktop\\ITLA\\Sexto Cuatrimestre\\Programación Paralela\\Módulo 07 Uso de hilos en la programación paralela\\EjemploProgramacionMultihilo\\Ejemplo\\Ejemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erinxon\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Erinxon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
