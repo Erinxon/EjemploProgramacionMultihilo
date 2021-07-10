@@ -33,7 +33,6 @@ namespace Ejemplo
             try
             {
                 GetDocentes().ForEach(doc => {
-                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine($"Docente + email: {doc.profesor} | {doc.correoInstitucional}");
                 });
             }
@@ -48,7 +47,6 @@ namespace Ejemplo
             try
             {
                 GetDocentes().ForEach(doc => {
-                    Console.ForegroundColor = ConsoleColor.White;
                     Console.WriteLine($"Docente + área: {doc.profesor} | {doc.area}");
                 });
             }
